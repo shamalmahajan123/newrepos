@@ -33,6 +33,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/New Folder/Page_CURA He
     'g3/DOGG74jC3Flrr3yH+3D/yKbOqqUNM')
 
 WebUI.click(findTestObject('Object Repository/New Folder/Page_CURA Healthcare Service/button_Login'))
+WebUI.click(findTestObject('Object Repository/New Folder/Page_CURA Healthcare Service/button_Login'))
+WebUI.click(findTestObject('Object Repository/New Folder/Page_CURA Healthcare Service/button_Login'))
 
 WebUI.selectOptionByValue(findTestObject('Object Repository/New Folder/Page_CURA Healthcare Service/select_Tokyo CURA Healthcare Center        _5b4107'), 
     'Hongkong CURA Healthcare Center', true)
